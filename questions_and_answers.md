@@ -1,6 +1,6 @@
 # Pizza Runner
 ## Questions and Answers
-### by jaime.m.shaker@gmail.com
+
 
 ### Pizza Metrics
 
